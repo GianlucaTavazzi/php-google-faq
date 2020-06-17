@@ -29,7 +29,7 @@ $answersandquestions =[
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     </head>
     <body>
-        <div class="conteiner">
+        <div class="container">
             <?php
                 foreach ($answersandquestions as $array) { ?>
                     <h1><?php echo $array['question']; ?></h1>

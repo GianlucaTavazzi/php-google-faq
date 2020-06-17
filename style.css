@@ -1,15 +1,15 @@
-.conteiner{
+.container{
     width: 70%;
     margin: auto;
     font-family: 'Open Sans', sans-serif;
 }
 
-.conteiner h1{
+.container h1{
     font-size: 22px;
 
 }
 
-.conteiner p{
+.container p{
     font-size: 14px;
 
 }
